@@ -1,5 +1,5 @@
 import Hero from "./components/Hero.jsx"
-import CountDown from "./components/CountDown.jsx"
+import Countdown from "./components/Countdown.jsx"
 import Signup from "./components/Signup.jsx"
 import Footer from "./components/Footer.jsx"
 
@@ -8,7 +8,7 @@ function App() {
     <div className="min-h-screen bg-[#F8F3E9] text-[#563e2e]">
       
       <Hero />
-      <CountDown />
+      <Countdown />
       <Signup />
       <Footer />
     </div>
