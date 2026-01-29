@@ -1,5 +1,5 @@
 import Hero from "./components/Hero.jsx"
-import Countdown from "./components/Countdown.jsx"
+import Countdown from "./components/CountDown.jsx"
 import Signup from "./components/Signup.jsx"
 import Footer from "./components/Footer.jsx"
 
