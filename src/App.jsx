@@ -1,7 +1,7 @@
-import Hero from "./components/Hero"
-import Countdown from "./components/Countdown"
-import Signup from "./components/Signup"
-import Footer from "./components/Footer"
+import Hero from "./components/Hero.jsx"
+import Countdown from "./components/Countdown.jsx"
+import Signup from "./components/Signup.jsx"
+import Footer from "./components/Footer.jsx"
 
 function App() {
   return (
